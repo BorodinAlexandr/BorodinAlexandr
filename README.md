@@ -14,6 +14,7 @@
 ### 📫 связаться со мной можно:
 [vk](https://vk.com/id10143400)
 [telegram](https://t.me/albanskiyvoyn)
+[steam](https://steamcommunity.com/profiles/76561198019463853/)
 <!--
 **BorodinAlexandr/BorodinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
