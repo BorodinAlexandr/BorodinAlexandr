@@ -12,9 +12,7 @@
 ![webpack](https://camo.githubusercontent.com/cec2e6fec6f1e188110e0e3e88f506b4498aac8343cf297117a3aa34354abde1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d3030303f267374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d253233384444364639)
 
 ### 📫 связаться со мной можно:
-[vk](https://vk.com/id10143400)
-[telegram](https://t.me/albanskiyvoyn)
-[steam](https://steamcommunity.com/profiles/76561198019463853/)
+:computer:[vk](https://vk.com/id10143400)     :iphone:[telegram](https://t.me/albanskiyvoyn)     :video_game:[steam](https://steamcommunity.com/profiles/76561198019463853/)
 <!--
 **BorodinAlexandr/BorodinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
