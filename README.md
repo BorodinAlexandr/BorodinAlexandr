@@ -17,7 +17,7 @@
 
 [start-react](https://borodinalexandr.github.io/start-react/)
 
-[mesto-react-auth](https://borodinalexandr.github.io/mesto-react-auth/)
+[mesto-react-auth](https://borodinalexandr.github.io/react-mesto-auth/)
 
 [marvel-web-service](https://borodinalexandr.github.io/marvel-web-service/)
 
