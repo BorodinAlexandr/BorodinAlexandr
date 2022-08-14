@@ -15,11 +15,11 @@
 ### 🔭 мои актуальные проекты: 
 ![react](https://camo.githubusercontent.com/5df3b4279124d6f6833767267c74bec56682d2eb000e4e7cd2b242f82c71dc3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d3030303f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
 
-![start-react](https://borodinalexandr.github.io/start-react/)
+[start-react](https://borodinalexandr.github.io/start-react/)
 
-![mesto-react](https://borodinalexandr.github.io/mesto-react/)
+[mesto-react-auth](https://borodinalexandr.github.io/mesto-react-auth/)
 
-![marvel-web-service](https://borodinalexandr.github.io/marvel-web-service/)
+[marvel-web-service](https://borodinalexandr.github.io/marvel-web-service/)
 
 ![js](https://camo.githubusercontent.com/6a3c17a3b7312cdcf93db186c4c49d1c84d67c17c3a2e9227bf7e082a48ec217/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d3030303f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 
